@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckboxDemo</string>
+    <string name="Languages">Your Preferred language</string>
+    <string name="cb1">Python</string>
+    <string name="cb2">Java</string>
+    <string name="cb3">C++</string>
+    <string name="cb4">PHP</string>
+</resources>
